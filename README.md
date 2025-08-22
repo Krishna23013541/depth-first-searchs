@@ -101,7 +101,8 @@ F H <BR>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
 <hr>
-## OUTPUT
+<h3>OUTPUT</h3>
+
 <img width="272" height="132" alt="Screenshot 2025-08-22 144400" src="https://github.com/user-attachments/assets/1e5da2da-a65b-4253-9977-6919b922c34a" />
 
 <hr>
